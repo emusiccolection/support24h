@@ -1,4 +1,4 @@
-function recommended_products() {
+!function recommended_products() {
   var r=10 // Số bài viết
   function get_random_posts(e) {
     if (e.feed.entry) {
